@@ -1,4 +1,4 @@
-package chapter1.avoidswitchfallthrough.problem;
+package chapter1.alwaysusebraces.solution;
 
 public class CruiseControl {
     public void logUnauthorizedAccessAttempt() {
