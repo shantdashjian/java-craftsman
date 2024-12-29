@@ -1,0 +1,7 @@
+package chapter2.favor_for_each_over_for_loops.problem;
+
+public class Commander {
+    public boolean isFailing(String s) {
+        return true;
+    }
+}
